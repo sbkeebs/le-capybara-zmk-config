@@ -29,7 +29,7 @@ aaaaaaaaaaaaaaa
                 = <&macro_press &kp LSHFT>
                 , <&macro_tap &kp COMMA>
                 , <&macro_release &kp LSHFT>
-                , <&macro_press &kp N3>
+                , <&macro_tap &kp N3>
                 ;
         };
         col3: colon_three {
@@ -39,7 +39,7 @@ aaaaaaaaaaaaaaa
                 = <&macro_press &kp LSHFT>
                 , <&macro_tap &kp SEMI>
                 , <&macro_release &kp LSHFT>
-                , <&macro_press &kp N3>
+                , <&macro_tap &kp N3>
                 ;
         };
     };
